@@ -40,7 +40,7 @@ logistic regression that does not employ any for loops.
 
 3.png
 
-I implemented one-vs-all classication by
+I implemented one-vs-all classification by
 training multiple regularized logistic regression classifiers, one for each of
 the K classes in the dataset. In the handwritten digits dataset,
 K = 10, but my code works for any value of K.
@@ -64,7 +64,7 @@ displayData.m - Function to help visualize the dataset
 fmincg.m - Function minimization routine (similar to fminunc)
 sigmoid.m - Sigmoid function
 [?] lrCostFunction.m - Logistic regression cost function
-[?] oneVsAll.m - Train a one-vs-all multi-class classier
-[?] predictOneVsAll.m - Predict using a one-vs-all multi-class classier
+[?] oneVsAll.m - Train a one-vs-all multi-class classifier
+[?] predictOneVsAll.m - Predict using a one-vs-all multi-class classifier
 ? indicates files completed by me
 
