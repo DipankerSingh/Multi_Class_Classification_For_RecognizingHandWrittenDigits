@@ -39,7 +39,7 @@ logistic regression that does not employ any for loops.
 
 ![2](https://cloud.githubusercontent.com/assets/15040734/21624476/365c0fee-d22d-11e6-8bc0-ad4f310659be.png)
 
-***NOTE: Theta_0 is not be regularized which is used for the bias term.***
+***NOTE: Theta_0 is not regularized which is used for the bias term.***
 
 **The Partial derivative of regularized logistic regression cost for Theta_j is defined as:**
 
